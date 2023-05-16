@@ -98,7 +98,7 @@ def main():
        """)
 
        a,b,c = st.columns([0.2,0.6,0.2])
-with b:
+with :
  st.image("banner-picture.jpeg", use_column_width=True)
 
 
